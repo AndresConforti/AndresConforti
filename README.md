@@ -6,7 +6,7 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="55%" align="right" alt="Github" src="https://github.com/user-attachments/assets/bd38a8c9-425e-4a16-bc92-5eba1fe018b5" />
+<img width="55%" align="right" alt="Github" src="https://i.imgur.com/RPSvfNl.png" />
 
 - :ballot_box_with_check: I’m all in for [Flutter](https://github.com/flutter);
 - 🌱 Currently learning Swift and Continuous Integration(CircleCI); 
